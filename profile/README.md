@@ -10,4 +10,6 @@ We publish free MCP tools and SDKs so any assistant or system can work with Swed
 - LinkedIn: https://www.linkedin.com/company/domera-se/
 - API docs: https://domera.se/api-dokumentation
 - Free MCP server: [`mcp-server`](https://github.com/Domera-proptech/mcp-server) · endpoint `https://mcp.domera.se/mcp`
+- Open data and helpers for Swedish rent (KPI 1980=100, Riksbank reference rate, statutory figures): [`swedish-property-data`](https://github.com/Domera-proptech/swedish-property-data)
+- Free calculators for landlords and BRF boards (in Swedish): https://domera.se/verktyg
 - Contact: hej@domera.se
